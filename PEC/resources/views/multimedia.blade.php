@@ -6,6 +6,12 @@
     <title>Multimedia</title>
 </head>
 <body>
+     @extends('layouts.app')
+
+@section('titulo', 'Catálogo - REFORVER')
+
+@section('contenido')
     
+@endsection
 </body>
 </html>
